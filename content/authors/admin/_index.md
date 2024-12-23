@@ -12,13 +12,26 @@ superuser: true
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-# # Role/position/tagline
-# role: Chief Scientist
+interests:
+  - Natural Language Processing
+  - Representation Learning in Science
+  - Information Retrieval
 
-# # Organizations/Affiliations to display in Biography blox
-# organizations:
-#   - name: OpenAI
-#     url: https://openai.com/
+education:
+  - area: PhD Computer Science
+    institution: City University of Hong Kong
+    date_start: 2022
+    date_end: 2025
+    
+  - area: MSc Electrical Engineering
+    institution: University of Southern California
+    date_start: 2016
+    date_end: 2018
+
+  - area: BSc Electrical Engineering
+    institution: University of Southern California
+    date_start: 2012  
+    date_end: 2016
 
 bio: I'm Yemin Yu, a 3rd year Ph.D. student majoring in computer science. My research interests focus on integrating artificial intelligence and deep learning approaches to accelerate scientific discoveries in chemistry and biology. I'm familiar with various representation learning approaches for text, image and advanced topology, as well as different vision/language/geometric models to processing them. 
 
@@ -35,3 +48,6 @@ profiles:
     url: https://scholar.google.com/citations?user=TklTE3gAAAAJ&hl=en
 
 ---
+## About Me
+
+Yemin Yu, a 3rd year Ph.D. student majoring in computer science. My research interests focus on integrating artificial intelligence and deep learning approaches to accelerate scientific discoveries in chemistry and biology. I'm familiar with various representation learning approaches for text, image and advanced topology, as well as different vision/language/geometric models to processing them. 
