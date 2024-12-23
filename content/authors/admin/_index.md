@@ -50,4 +50,4 @@ profiles:
 ---
 ## About Me
 
-Yemin Yu, a 3rd year Ph.D. student majoring in computer science. My research interests focus on integrating artificial intelligence and deep learning approaches to accelerate scientific discoveries in chemistry and biology. I'm familiar with various representation learning approaches for text, image and advanced topology, as well as different vision/language/geometric models to processing them. 
+My research interests focus on integrating artificial intelligence and deep learning approaches to accelerate scientific discoveries in chemistry and biology. I'm familiar with various representation learning approaches for text, image and advanced topology, as well as different vision/language/geometric models to processing them. 
